@@ -1,4 +1,5 @@
 # Project Title
+![Image description](link-to-image)
 ## Description
 ### Pre-requisites
 ## Running the tests
