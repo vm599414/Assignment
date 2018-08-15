@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="59.985">
+  <properties />
+  
+  
+            <testcase name="productList" time="36.448" classname="automationMain.AmazonSearchTest" />
+                <testcase name="getValues" time="3.105" classname="automationMain.AmazonSearchTest" />
+                <testcase name="close" time="2.519" classname="automationMain.AmazonSearchTest" />
+                <testcase name="launch" time="17.913" classname="automationMain.AmazonSearchTest" />
+      
+</testsuite>
