@@ -61,7 +61,7 @@ This project will search for any product based on the category we filter and sea
   The Main category in every project is Reporting the Execution Result, here we used the Reporting plugin as ReportNG, Since we have default Reporting in TestNG that is not much readable and interactive.
   ReportNG will generate the Report in more readable format than TestNG reports
   ![Test Result overview](https://github.com/vm599414/Assignment/blob/master/target/Sample%20Report/Detailed%20result.PNG)
-  ![Suite Result overview](https://github.com/vm599414/Assignment/blob/master/target/Sample%20Report/Detailed%20result.PNG)
+  ![Suite Result overview](https://github.com/vm599414/Assignment/blob/master/target/Sample%20Report/Test%20Result.PNG)
     
 ## Author
   - Vinodhini M - [Profile](https://github.com/vm599414)
